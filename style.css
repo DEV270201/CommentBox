@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  
+  .btns{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .btn{
+    width: 65px;
+  }
