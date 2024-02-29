@@ -1,4 +1,5 @@
 # CommentBox
+I have developed a comment box application that facilitates adding, editing, and deleting comments within comments (nested comments) with ease. The application is built using recursive functions in JavaScript to implement these features.
 
 ### Adding new comment
 
@@ -10,10 +11,14 @@
 ### Added reply to the comment
 ![image](https://github.com/DEV270201/CommentBox/assets/56965636/e998fc43-c475-485d-9288-0788c793ef66)
 
-### 
-![image](https://github.com/DEV270201/CommentBox/assets/56965636/8dc62a6a-6eb8-4ca0-91dd-461b4139a7d3)
+### Before deleting the parent comment
+![image](https://github.com/DEV270201/CommentBox/assets/56965636/9fe7f73b-97ef-4d11-82d6-9f20c77ee7ff)
 
+### Now if we delete the parent comment say Dumbeldore's comment, so by default all the children comments will be deleted.
+![image](https://github.com/DEV270201/CommentBox/assets/56965636/1a5d23e5-76f7-490d-8432-563401250cf9)
 
+### Interface for editing the comment
+![image](https://github.com/DEV270201/CommentBox/assets/56965636/de170c70-2c02-4157-b33a-f0edf0303624)
 
-
-Developed a comment box application where you can add comments within comments (nested comments), edit them and delete them easily. I wrote recursive functions for building the features of this application in JavaScript.
+### After updating the comment
+![image](https://github.com/DEV270201/CommentBox/assets/56965636/6cba7983-365e-40fe-8098-cf7b2e1d80f9)
